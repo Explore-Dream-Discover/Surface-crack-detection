@@ -1,1 +1,1 @@
-web: gunicorn --timeout 90 --workers=3 app_flask:app --preload
+web: gunicorn -w 2 -k uvicorn.workers.UvicornWorker -t 90 app_flask:app
