@@ -7,7 +7,7 @@ import os
 
 
 
-model_path = 'backend\models\Cnn_Surface_detection v1.1.h5'
+model_path = 'backend/models/Cnn_Surface_detection v1.1.h5'
 
 def model_loading():
     """
