@@ -10,8 +10,8 @@ The data set includes one RGB image per 227 x 227 pixel image.
 
 ![image](https://user-images.githubusercontent.com/104477667/184500820-f378e3ad-46b5-4e2c-9ecb-c4956aaf3451.png)
 
-# A running application is located 
-https://crack-detection-flask-app.herokuapp.com/#
+# A running application is located at
+https://crack-detection-flask-app.herokuapp.com
 
 
 
