@@ -1,1 +1,1 @@
-web: gunicorn --graceful-timeout 60 --workers=3 app_flask:app --preload
+web: gunicorn --graceful-timeout 240 --workers=3 app_flask:app --preload
