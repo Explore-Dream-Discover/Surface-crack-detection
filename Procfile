@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:$PORT app_flask:app --preload
+web: gunicorn  app_flask:app 
