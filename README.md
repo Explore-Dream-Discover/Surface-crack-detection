@@ -1,4 +1,4 @@
-# Surface-Crack-detection-using-Tensorflow-Flask-RestX
+# Surface-Crack-detection-using-Tensorflow-Flask
 ## About the Data set:
 We are utilising the data set of publicly accessible Concrete Crack Images.
 The data set from Ozgenel and Gonenc's paper was made available to the general public.
