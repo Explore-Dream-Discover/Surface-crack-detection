@@ -1,1 +1,2 @@
-web: gunicorn --bind 0.0.0.0:$PORT app_flask:app --preload
+web: gunicorn --bind=0.0.0.0 --workers=3 app_flask:app --preload
+"--bind=0.0.0.0 --workers=3"
